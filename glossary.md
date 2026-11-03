@@ -10,3 +10,4 @@
 | Compression | Nén |
 | Encoding | Mã Hóa |
 | Data format | Định Dạng Dữ Liệu |
+|latency, SYN, SYN-ACK, ACK|
