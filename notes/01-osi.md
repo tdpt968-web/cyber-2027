@@ -1,4 +1,5 @@
 | Lớp |	Đơn vị dữ liệu |	Giao thức tiêu biểu |	Thiết bị tiêu biểu |
+| --- | --- | --- | --- |
 | 7 Application |	Data |	HTTP, DNS, SMTP, FTP |	Trình duyệt, ứng dụng |
 | 6 Presentation |	Data |	TLS, JPEG, ASCII |	Không điển hình |
 | 5 Session |	Data |	NetBIOS, RPC |	Không điển hình |
